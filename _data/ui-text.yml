@@ -26,7 +26,7 @@ en: &DEFAULT_EN
   date_label                 : "Updated:"
   comments_label             : "Leave a comment"
   comments_title             : "Comments"
-  more_label                 : "More:"
+  more_label                 : "Learn more"
   related_label              : "You may also enjoy"
   follow_label               : "More:"
   feed_label                 : "Feed"
