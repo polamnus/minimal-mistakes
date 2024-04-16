@@ -23,22 +23,20 @@ As soon as we add more than one human to the mix, the ability to communicate soo
 > Without access to reliable communication, it is impossible to make infomred decisions.
 > Without communication, we are all individuals without the capacity for cooperation.
 
-On the hierarchy of needs, communication may not fill a hungry belly, or quench a thirst, but it can inform you where, how, and when it is safe to do those things. Without the ability to reliably relay information to another human, it is impossible to raise ones considerations above that of the sole individual. Communication is paramount to any functional society as soon as the number of participants is greater than one.
-
-> Now ask yourself, do you want to be wholly dependent on a faceless corporation for your communication needs?
-> 
+On the hierarchy of needs, communication may not fill a hungry belly, or quench a thirst, but it can inform you where, how, and when it is safe to do those things. Without the ability to reliably relay information to or from another human, it is impossible to be anythign more than an individual. Communication is paramount to any group identity, as soon as the number of participants is greater than one.
 ## Centralization of Authority
 <img src="/media/central_authority.jpg" width="80%">
 
-We live in a highly centralized society. People from untold miles away make policies which have direct impact on how you live your life. This may take the shape of State or Corporate actors, or more often, a [combination of the two](https://en.wikipedia.org/wiki/Corporatocracy). These policy makers don't know you and don't have your best interests at heart, yet they are making decisions that have the potential to reach into your life and change it in fundamental ways.
+We live in a highly centralized society. People from untold miles away make policies which have direct impact on how you live your life. This may take the shape of State or Corporate actors, or more often, a [combination of the two](https://en.wikipedia.org/wiki/Corporatocracy). These policy makers don't know you and don't have your best interests at heart, yet they are making decisions that reach into your life and change it in fundamental ways.
 
-> How many things do you own in life that someone can **not** just *turn-off*? Food, water, internet, mobile and land-lines...even your car can be remotely disabled.
-> All it takes is someone who doesn't know you and will never meet you pushing a button, and you lose those things...possibly forever if those who push the buttons so choose.
+> How many things do you own in life that someone can **not** just *turn off*? Food, water, internet, mobile and land-lines...even your car can, and indeed have been, remotely disabled by State actors operating outside the rule of law.
 
-The **BERN**, and mesh networks like it, can never be turned off as they are *user generated* and will exist as long as there are users to populate it. A small $35 investment in a mesh radio may not seem like much, but once you hold something in your hand that can not be taken away from you or turned off by and act of policy or legislation, your perspective on things shifts. You begin to wonder why you ever put control of these basic human needs in the hands of so few, so far removed from you and yours. It *should* make you mad, and once you get mad...you'll inevitably want to start to do something about it. Something like investment and participation in Parallel Systems, beyond the panopticon of [governmental & corporate overreach](https://en.wikipedia.org/wiki/Corporatocracy).
+The **BERN**, and mesh networks like it, can never be turned off as they are *user generated* and will exist as long as there are users to populate it. A small $35 investment in a mesh radio may not seem like much, but once you hold something in your hand that can not be taken away from you or turned off by and act of policy or legislation, your perspective on things shifts.
+
+You begin to wonder why you ever put control of these basic human needs in the hands of so few, so far removed from you and yours. It *should* make you mad, and once you get mad...you'll inevitably want to start to do something about it. Something like investing and participating in Parallel Systems, beyond the panopticon of governmental & corporate overreach.
 
 ## Parallel Systems
-<img src="/media/pirate_radio.webp">
+<img src="/media/pirate_radio.webp" width="80%">
 
 During the Cold War, countries under the heel of the Soviet Union were successful in shaking off the authoritarian yoke by building, maintaining, and working within so-called, *Parallel Systems*.
 
@@ -46,7 +44,7 @@ Rather than utilize State services for things like banking, libraries, goods, or
 
 It is no exaggeration to suggest that the collapse of the USSR and the rise of progressive democracies throughout the former Eastern Bloc nations owes significantly to those brave citizens who were able to establish and maintain those parallel systems in the face of an authoritarian government trying to stop them.
 
-While I an under no false pretenses that the **BERN** is going to bring about the fall of any Communist regimes, it is *precisely* these kinds of systems which reminds its users what it means to control your own necessities again.
+While I an under no false pretense that the **BERN** is going to bring about the fall of any Communist regimes, it is *precisely* these kinds of systems which reminds its users what it means to control your own necessities again.
 ## Promise of the Mesh
 <img src="/media/mesh_diagram_houses.png">
 
@@ -73,4 +71,4 @@ Can it be considered a *"Prepper Thing"*?
 
 Sure, but it's far, far more than that! The use cases are as wide and varied as your own imagination!
 
-*Do your part for yourself and your community, join the **BERN**, or your local mesh network today!*
+*Do your part for yourself, your family, and your community, join the **BERN**, or your local mesh network today!*
