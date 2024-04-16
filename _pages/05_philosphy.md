@@ -44,7 +44,6 @@ Rather than utilize State services for things like banking, libraries, goods, or
 
 It is no exaggeration to suggest that the collapse of the USSR and the rise of progressive democracies throughout the former Eastern Bloc nations owes significantly to those brave citizens who were able to establish and maintain those parallel systems in the face of an authoritarian government trying to stop them.
 
-While I an under no false pretense that the **BERN** is going to bring about the fall of any Communist regimes, it is *precisely* these kinds of systems which reminds its users what it means to control your own necessities again.
 ## Promise of the Mesh
 <img src="/media/mesh_diagram_houses.png">
 
@@ -56,7 +55,7 @@ The **BERN**, and mesh networks like it, represents a wholly different paradigm 
 
 There is no corporation to commoditize your personal data, boosting corporate profits by selling your private information to the highest bidder. There are no advertisements, no shadow-bans, no algorithms, no commercials, and no content moderation of any kind.
 
-The $35 radio you hold in your hand may not seem like much. After all, it is a lot of work to achieve something as mundane as text messaging. However, that $35 is an investment in buying a slice of independence. A tiny victory in principal, in a world *hell bent* on creating a subservient race of paid subscribers and consumers for any conceivable needs.
+The $35 radio you hold in your hand may not seem like much. After all, it is a lot of work to achieve something as mundane as text messaging. However, that $35 is an investment in buying a slice of independence. A tiny victory in principal, in a world *hell bent* on creating a subservient race of paid subscribers and consumers for basic human needs.
 
 There aren't too many things left in this world like this, but here is one way you can take something back from those who would use technology as a yoke to control you.
 
