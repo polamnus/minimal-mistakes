@@ -30,7 +30,7 @@ On the hierarchy of needs, communication may not fill a hungry belly, or quench 
 ## Centralization of Authority
 <img src="/media/central_authority.jpg" width="80%">
 
-We live in a highly centralized society. People from untold miles away make policies which have direct impact on how you live your life. This may take the shape of State or Corporate actors, or more often, a combination of the two. These policy makers don't know you and don't have your best interests at heart, yet they are making decisions that have the potential to reach into your life and change it in fundamental ways.
+We live in a highly centralized society. People from untold miles away make policies which have direct impact on how you live your life. This may take the shape of State or Corporate actors, or more often, a [combination of the two](https://en.wikipedia.org/wiki/Corporatocracy). These policy makers don't know you and don't have your best interests at heart, yet they are making decisions that have the potential to reach into your life and change it in fundamental ways.
 
 > How many things do you own in life that someone can **not** just *turn-off*? Food, water, internet, mobile and land-lines...even your car can be remotely disabled.
 > All it takes is someone who doesn't know you and will never meet you pushing a button, and you lose those things...possibly forever if those who push the buttons so choose.
