@@ -28,14 +28,14 @@ On the hierarchy of needs, communication may not fill a hungry belly, or quench 
 > Now ask yourself, do you want to be wholly dependent on a faceless corporation for your communication needs?
 > 
 ## Centralization of Authority
-<img src="/media/central_authority.jpg">
+<img src="/media/central_authority.jpg" width="80%">
 
-We live in a highly centralized society. People from untold miles away make enact policy which has direct impact on how you live your life. This may take the shape of State or Corporate actors, or more often, a combination of the two. These policy makers don't know you and don't have your best interests at heart, yet they are making decisions that have the potential to reach into your life and change it in fundamental ways.
+We live in a highly centralized society. People from untold miles away make policies which have direct impact on how you live your life. This may take the shape of State or Corporate actors, or more often, a combination of the two. These policy makers don't know you and don't have your best interests at heart, yet they are making decisions that have the potential to reach into your life and change it in fundamental ways.
 
 > How many things do you own in life that someone can **not** just *turn-off*? Food, water, internet, mobile and land-lines...even your car can be remotely disabled.
 > All it takes is someone who doesn't know you and will never meet you pushing a button, and you lose those things...possibly forever if those who push the buttons so choose.
 
-The **BERN**, and mesh networks like it, can never be turned off as they are *user generated* and will exist as long as there are users to populate it. A small $35 investment in a mesh radio may not seem like much, but once you hold something in your hand that can not be taken away from you or turned off by and act of policy or legislation, your perspective on things shifts. You begin to wonder why you ever put control of these basic human needs in the hands of so few, so far removed from you and yours. It *should* make you mad, and once you get mad...you'll inevitably want to start to do something about it. Something like investment and participation in Parallel Systems, beyond the pall of governmental & corporate overreach.
+The **BERN**, and mesh networks like it, can never be turned off as they are *user generated* and will exist as long as there are users to populate it. A small $35 investment in a mesh radio may not seem like much, but once you hold something in your hand that can not be taken away from you or turned off by and act of policy or legislation, your perspective on things shifts. You begin to wonder why you ever put control of these basic human needs in the hands of so few, so far removed from you and yours. It *should* make you mad, and once you get mad...you'll inevitably want to start to do something about it. Something like investment and participation in Parallel Systems, beyond the panopticon of [governmental & corporate overreach](https://en.wikipedia.org/wiki/Corporatocracy).
 
 ## Parallel Systems
 <img src="/media/pirate_radio.webp">
