@@ -34,7 +34,7 @@ We live in a highly centralized society. People from untold miles away make poli
 
 The **BERN**, and mesh networks like it, can never be turned off as they are *user generated* and will exist as long as there are users to populate it. A small $35 investment in a mesh radio may not seem like much. But once you hold something in your hand that can not be taken away from you or turned off by and act of policy or legislation, your perspective on things shifts. 
 
-> "Central authority is bad. The bias should be for freedom.> And without a central authority, there are lots of little authorities, and we learn which ones to trust." -John Stossel
+> "Central authority is bad. The bias should be for freedom. And without a central authority, there are lots of little authorities, and we learn which ones to trust." -John Stossel
 
 You begin to wonder why you ever put control of these basic human needs in the hands of so few, so far removed from you and yours. It *should* make you mad, and once you get mad...you'll inevitably want to start to do something about it.
 
