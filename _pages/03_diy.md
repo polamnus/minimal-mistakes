@@ -1,3 +1,4 @@
+
 ---
 layout: single
 author_profile: true
@@ -38,20 +39,18 @@ This can almost certainly be done more cheaply. The battery bank solves an impor
 
 This unit is meant to be a medium range walking-around client node. It's got decent range due to 1/4 wave 2dbi antenna, which diminishes its portability somewhat. It's single, rechargeable battery is sufficient to keep the unit on constantly for over a month between charges!
  - [Rak Wireless Meshtastic Starter Kit](https://store.rokland.com/products/rak-wireless-wisblock-meshtastic-starter-kit): $35
- - [1/4 Wave 2dbi antenna](https://www.amazon.com/gp/product/B07HZ3BSHM): $10
+ - [1/2 Wave Dipole Antenna](https://www.mouser.com/ProductDetail/712-ANT-915-IPW1-RPS): $11.57 (Note: RP-SMA!)
  - [Mini PCI to RP-SMA Pigtails](https://www.amazon.com/gp/product/B072VWKXCR)(pk of 6): $14
- - [10mm on/off switch](https://www.amazon.com/gp/product/B07MQ86LYD)(pk of 3): $12
- - [USB-C Dust Plug](https://www.amazon.com/gp/product/B0CJ9DT6QR)(pk of 6): $5
  - [Handheld Enclosure 1553BYLBK](https://www.digikey.com/en/products/detail/hammond-manufacturing/1553DYLBK/2094892): $10
  - [Enclosure Belt Clip](https://www.digikey.com/en/products/detail/hammond-manufacturing/1599CLIP/460760): $3
  - [NCR18650GA 3450mAh 10A Battery](https://store.rokland.com/products/sanyo-ncr18650ga-3450mah-10a-battery-lilygo-ttgo-meshtastic-t-beam)(pk of 2): $12
  - [18650 Battery Holder](https://www.amazon.com/DIANN-10pcs-Battery-Holder-Single/dp/B0BJV7SK5D/)(pk of 10): $6
 
-**Total: $71**
+**Total: ~$69**
 
 <img src="/media/handhelds_open.jpg" width="67%"><img src="/media/handheld_solo.jpg" width="67%">
 
-I was able to source a number of components from eBay sellers at a substantial discount. My unit-cost was ~$50, but wanted to represent a worst-case number here.
+I was able to source a number of components from eBay sellers at a substantial discount. My unit-cost was < $50, but wanted to represent a worst-case number here.
 
 ## [Let's move on to Software](/app.html)
 <img src="/media/meshtastic-logo.png">
