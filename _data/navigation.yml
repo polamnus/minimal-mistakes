@@ -6,6 +6,8 @@ main:
     url: suppliers.html
   - title: "DIY"
     url: diy.html
+  - title: "DIY-2"
+    url: diy02.html
   - title: "Applicaiton"
     url: app.html
   - title: "Soapbox"
