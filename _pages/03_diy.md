@@ -1,11 +1,10 @@
-
 ---
 layout: single
 author_profile: true
-read_time: true
+read_time: false
 comments: false
 share: true
-related: false
+related: true
 permalink: diy.html
 ---
 # DIY Builds
