@@ -2,8 +2,8 @@
 layout: single
 permalink: /
 author_profile: true
-read_time: true
-comments: #true
+read_time: false
+comments: false
 share: true
 related: true
 ---
