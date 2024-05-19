@@ -47,19 +47,15 @@ Now we create a new sheet in [Google Sheets](https://sheets.google.com), don't b
  2. Accept defaults and Google Sheets will import the file.
  3. Click on the header of the payload column, chose Create Filter.
     <img src="/media/CreateFilter.png">
-    **Figure:* Create the Filter
  5. From the filter menu, clear the selected items.
  6. Enter: `seq` in the search field and then click 'select all.'
     <img src="/media/filter_selectall.png">
-    **Figure:** Select only Seq payloads
  7. Your spreadsheet will now only display rows with the seq prefix in the payload column. These are your range test pings. Note you should see Rx SNR, Rx Lat, & RX Long for each packet received.
  8. Ctrl+A (Cmd+A on Mac) to select all, then Ctrl+C (Cmd+C on Mac) to copy the whole sheet to clipboard.
  9. Click the plus icon at the bottom to add a new sheet, enter the new sheet and Ctrl+V (Cmd+V on Mac) to paste the range test rows to the new sheet.
     <img src="/media/sheet_new.png">
-    **Figure:** Add a new Sheet
  10. Now delete the original sheet, leaving just the filtered range test packets and nothing else.
     <img src="/media/filter_results.png">
-     **Figure:** Your range test dataset
 
 ## Google's My Maps
  1. Start a new map in [Google's My Maps](https://www.google.com/mymaps), or open an existing map to add data to it.
