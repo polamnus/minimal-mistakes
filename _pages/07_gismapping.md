@@ -45,7 +45,7 @@ Now we create a new sheet in [Google Sheets](https://sheets.google.com), don't b
 
  1. From the file menu, chose Import and browse your local storage to the `rangetest.csv` file.
  2. Accept defaults and Google Sheets will import the file.
- 3. Click on the header of the payload column, chose Create Filter.
+ 3. Click on the payload column, chose Create Filter.
     <img src="/media/CreateFilter.png">
  5. From the filter menu, clear the selected items.
  6. Enter: `seq` in the search field and then click 'select all.'
