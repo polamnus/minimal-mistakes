@@ -48,22 +48,23 @@ Now we create a new sheet in [Google Sheets](https://sheets.google.com), don't b
  3. Click on the payload column, chose Create Filter.
     <img src="/media/CreateFilter.png">
  5. From the filter menu, clear the selected items.
- 6. Enter: `seq` in the search field and then click 'select all.'
+ 6. Enter: `seq` in the search field and then click **Select All**.'
     <img src="/media/filter_selectall.png">
- 7. Your spreadsheet will now only display rows with the seq prefix in the payload column. These are your range test pings. Note you should see Rx SNR, Rx Lat, & RX Long for each packet received.
- 8. Ctrl+A (Cmd+A on Mac) to select all, then Ctrl+C (Cmd+C on Mac) to copy the whole sheet to clipboard.
- 9. Click the plus icon at the bottom to add a new sheet, enter the new sheet and Ctrl+V (Cmd+V on Mac) to paste the range test rows to the new sheet.
+ 7. Your spreadsheet will now only display rows with the seq prefix in the payload column. These are your range test pings.
+     Note you should see **Rx SNR**, **Rx Lat**, & **RX Long** for each packet received.
+ 9. **Ctrl+A** (**Cmd+A** on Mac) to select all, then **Ctrl+C** (**Cmd+C** on Mac) to copy the whole sheet to clipboard.
+ 10. Click the plus icon at the bottom to add a new sheet, enter the new sheet and **Ctrl+V** (**Cmd+V** on Mac) to paste the range test rows to the new sheet.
     <img src="/media/sheet_new.png">
- 10. Now delete the original sheet, leaving just the filtered range test packets and nothing else.
+ 11. Now delete the original sheet, leaving just the filtered range test packets and nothing else.
     <img src="/media/filter_results.png">
 
 ## Google's My Maps
  1. Start a new map in [Google's My Maps](https://www.google.com/mymaps), or open an existing map to add data to it.
- 2. Click to import data into the initial layer, browse your Google drive for the spreadsheet we worked on in the previous section.
+ 2. Import data into the layer, selecting the Sheet we just created in Google Drive.
      <img src="/media/MapImportLayer.png">
  4. Google Maps will ask you which columns are to be used to represent latitude and longitude. Fortunately, this is easy as the columns are RxLat and RxLon.
      <img src="/media/latlong.png">
- 5. Google Maps next asks which column to use to name the mapped points. For this, chose Rx SNR.
+ 5. Google Maps next asks which column to use to name the mapped points. For this, chose **Rx SNR**.
  6. Your mapped range test points are now displayed, but we are not done yet!
  7. Click the paint roller icon and change Group Places By and Set Labels both to Rx SNR.
  8. Click the radio button next to Ranges and set a reasonable number here, I use 8.
