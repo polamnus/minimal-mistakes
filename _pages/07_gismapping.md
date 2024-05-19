@@ -14,6 +14,7 @@ This page summarizes one method to create geographic plots of your Meshtastic no
 
 ## Range Test Module
 <img src="/media/explorer_binocs.png" width="80%">
+
 The Meshtastic application includes a range test module which can be used to generate data sets, plotting the distance, location, and signal strength between any two nodes. These may then be plotted on various mapping services, the most ubiquitous being Google, so we'll use that to focus on.
 
  We will be making use of two nodes configured with a single base station and a single mobile node. We put the base station into a "Lighthouse" mode where it beacons out every so many seconds, our mobile node will be receiver and its location will be used as the source of our mapped GPS coordinates.
