@@ -19,13 +19,16 @@ The Meshtastic application includes a range test module which can be used to gen
 
  We will be making use of two nodes configured with a single base station and a single mobile node. We put the base station into a "Lighthouse" mode where it beacons out every so many seconds, our mobile node will be receiver and its location will be used as the source of our mapped GPS coordinates.
 
- 1. Connect to Stationary Node, enable range test mode. If walking, set 30s, if driving, set 120s...or similar enough for your needs.
- 2. Connect to Mobile Node, optionally clear debug log to start a fresh data file (all existing logs will be lost!).
- 3. Enable Range Test mode, do not set a send time, we will only be receiving.
- 4. Soon, you should see messages appear on your mobile node, like seq, with incrementing numbers.
- 5. Start walking! Or driving, or hiking, or biking, or driving. Keep watching your mobile client for missed pings. Keep moving until you're sure you've missed a number of pings due to range, line of sight, etc.
- 6. Continue to "Map" the periphery of your connectivity with the base station. Consider whether you're losing signal due to range related, or line of sight related issues...line of sight may clear up in a few meters...range usually gradually fades.
- 7. When satisfied with your data set, return to home base. Disable Range Test mode in BOTH the mobile base station and client nodes.
+ 1.Enable sharing phone GPS to mesh. I recommend this for range testing, even if you have on-board GPS.
+ 2. Connect to Stationary Node, enable range test mode. If walking, set 30s, if driving, set 120s...or similar enough for your needs.
+ 3. Connect to Mobile Node, optionally clear debug log to start a fresh data file (all existing logs will be lost!).
+ 4. Enable Range Test mode, do not set a send time, we will only be receiving.
+ 5. Soon, you should see messages appear on your mobile node, like seq, with incrementing numbers.
+ 6. Start walking! Or driving, or hiking, or biking, or driving. Keep watching your mobile client for missed pings. Keep moving until you're sure you've missed a number of pings due to range, line of sight, etc.
+ 7. Continue to "Map" the periphery of your connectivity with the base station.
+    Consider whether you're losing signal due to range related, or line of sight related issues...line of sight may clear up in a few meters...range usually gradually fades.
+ 8. When satisfied with your data set, return to home base. Disable Range Test mode in BOTH the mobile base station and client nodes.
+ 9. Disable sharing your phone's GPS to mesh.
 
 > Ensure you disable Range Test mode when not actively in-use. Not only
 > is it a drain on the battery of the participating nodes, even
