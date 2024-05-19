@@ -15,20 +15,20 @@ This page summarizes one method to create geographic plots of your Meshtastic no
 ## Range Test Module
 <img src="/media/explorer_binocs.png" width="80%">
 
-The Meshtastic application includes a range test module which can be used to generate data sets, plotting the distance, location, and signal strength between any two nodes. These may then be plotted on various mapping services, the most ubiquitous being Google, so we'll use that to focus on.
+The Meshtastic application includes a range test module which can be used to generate data sets, plotting the distance, location, and signal strength between any two nodes. These may then be plotted on various mapping services, the most ubiquitous being Google, which is what we'll use here.
 
- We will be making use of two nodes configured with a single base station and a single mobile node. We put the base station into a "Lighthouse" mode where it beacons out every so many seconds, our mobile node will be receiver and its location will be used as the source of our mapped GPS coordinates.
+ We will be making use of two nodes configured with a single base station and a single mobile node. We put the base station into a "Lighthouse" mode where it beacons out every so many seconds. Meanwhiel, our mobile node will be our receiver and its location will be used as the source of our mapped GPS coordinates.
 
  1. Enable sharing phone GPS to mesh. I recommend this for range testing, even if you have on-board GPS.
- 2. Connect to Stationary Node, enable range test mode. If walking, set 30s, if driving, set 120s...or similar enough for your needs.
+ 2. Connect to Stationary Node, enable range test mode. If walking, set 30s, if driving, set 120s.
  3. Connect to Mobile Node, optionally clear debug log to start a fresh data file (all existing logs will be lost!).
  4. Enable Range Test mode, do not set a send time, we will only be receiving.
- 5. Soon, you should see messages appear on your mobile node, like seq, with incrementing numbers.
- 6. Start walking! Or driving, or hiking, or biking, or driving. Keep watching your mobile client for missed pings. Keep moving until you're sure you've missed a number of pings due to range, line of sight, etc.
- 7. Continue to "Map" the periphery of your connectivity with the base station.
-    Consider whether you're losing signal due to range related, or line of sight related issues...line of sight may clear up in a few meters...range usually gradually fades.
- 8. When satisfied with your data set, return to home base. Disable Range Test mode in BOTH the mobile base station and client nodes.
- 9. Disable sharing your phone's GPS to mesh.
+ 5. Soon, you should see messages appear on your mobile node, like `seq00`, incrementing with each ping.
+ 6. Start walking! Or driving, or hiking, or biking, or flying! Keep watching your mobile client for missed pings. Continue moving until you're sure you've missed a number of pings and have truly lost link with the base station.
+ 7. Continue to map the periphery of your connectivity with the base station. Make your path a route you don't mind repeating, since you may wish to run successive tests to compare performance under different conditions, so make it reasonable to repeat!
+ 8. Consider whether you're losing signal due to range, or line of sight. Line of sight may clear up if you keep moving, but range fades over distance.
+ 9. When satisfied with your data set, return to home base. Disable Range Test mode in **BOTH** the mobile base station and client nodes.
+ 10. Disable sharing your phone's GPS to mesh.
 
 > Ensure you disable Range Test mode when not actively in-use. Not only
 > is it a drain on the battery of the participating nodes, even
@@ -38,7 +38,7 @@ The Meshtastic application includes a range test module which can be used to gen
 > mesh.
 
 ## Saving the Data
-Now you need to connect to the mobile radio node and export/save the `rangetest.csv` file. This will save to the local storage of your mobile device. Now you need to trasfer the `rangetest.csv` file off the phone and onto a laptop...presuming you don't want to work with it on a phone's UI...I don't want to work with it on a phone's UI.
+Now you need to connect to the mobile radio node and export/save the `rangetest.csv` file. This will save to the local storage of your mobile device. Now you need to trasfer the `rangetest.csv` file off the phone and onto a laptop...presuming you don't want to work with it on a phone's UI. *I don't want to work with it on a phone's UI.*
 
 Use something like a messenger app, as the CSV files are relatively small, especially if you clear the debug log prior to starting your range test. Send it to yourself through whatever means necessary, and save the file on your laptop of choice.
 
@@ -76,18 +76,17 @@ Now we create a new sheet in [Google Sheets](https://sheets.google.com), don't b
     
 Now you will have a color coded set of plots, each representing a single ping packet sent from your base station to your mobile node during the range test. The color gradient represents the SNR as calculated by the mobile receiver node.  
 
-> You may now repeat this same test any number of times.
-> By changing a variable each time and comparing to your
-> previous data-sets, you can make informed,
-> objective opinions about the efficiacy of any changes.
+> You may now repeat this same test any number of times. By changing a variable
+> each time and comparing to your previous data-sets, you can make informed,
+> objective decisions as to whether any changes have been beneficial or not.
 
 ## Back to Baseline
 <img src="/media/baseline.png">
 
-Before you can determine whether anything you do on the mesh is a good or bad idea, you must first establish a baseline. You can't know where you're going if you don't know where you are, so the first thing you ought to do is establish a baseline against which to measure any future updates or changes. With an adequate baseline, you may make objective determinations about whether any changes are good or bad.
+Before you can determine whether anything changes you make to your nodes is worthwhile, you must first establish a baseline. You can't know where you're going if you don't know where you are. Fortunately, this method is an easy way to establish that baseline against which to measure any future updates or changes. With an adequate baseline, you may make objective determinations about whether any changes are good or bad. Was that fancy new antenna actually worth it or not? Now you can answer that question in a definitive, objective way.
 
 ## Google Earth
 <img src="/media/GEarch_Pano.png">
-From within the Google My Maps interface, you may open the same map inside of the web version of Google Earth or even export your map in a number of formats. Using Google Earth, you can do some really interesting analysis and visualizations in 3D virtual space.
+From within the Google My Maps interface, you may open the same map inside of the web version of [Google Earth](https://earth.google.com) or even export your map in a number of formats. Using Google Earth, you can do some really interesting analysis and visualizations in 3D virtual space.
 
 Got any interesting maps worth sharing? Send me a copy, and I'll be glad to feature interesting maps here!
