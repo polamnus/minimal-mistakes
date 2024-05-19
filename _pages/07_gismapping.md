@@ -70,7 +70,7 @@ Now we create a new sheet in [Google Sheets](https://sheets.google.com), don't b
  7. Click the radio button next to Ranges and set a reasonable number here, I use 8.
  8. Set a color scheme of your choice.
 <img src="/media/ImportMap.png">
-Now you will have a color coded set of plots, each representing a single ping packet send from your base station to your mobile node during the range test. The color gradient represents the SNR as calculated by the mobile receiver node.
+Now you will have a color coded set of plots, each representing a single ping packet sent from your base station to your mobile node during the range test. The color gradient represents the SNR as calculated by the mobile receiver node.
 
 > You may now repeat this same test any number of times.
 > By changing a variable each time and comparing to your
@@ -84,6 +84,6 @@ Before you can determine whether anything you do on the mesh is a good or bad id
 
 ## Google Earth
 <img src="/media/GEarch_Pano.png">
-From within the Google My Maps interface, you may open the same map inside of the web version of Google Earth or even export your map in a number of formats. Using Google Earth, you can do some really interesting analysis and visualizations using in 3D virtual space.
+From within the Google My Maps interface, you may open the same map inside of the web version of Google Earth or even export your map in a number of formats. Using Google Earth, you can do some really interesting analysis and visualizations in 3D virtual space.
 
 Got any interesting maps worth sharing? Send me a copy, and I'll be glad to feature interesting maps here!
