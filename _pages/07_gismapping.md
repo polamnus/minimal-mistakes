@@ -83,7 +83,12 @@ Now you will have a color coded set of plots, each representing a single ping pa
 ## Back to Baseline
 <img src="/media/baseline.png">
 
-Before you can determine whether any changes you make to your mesh are worthwhile, you must first establish a baseline. You can't know where you're going if you don't know where you are. Fortunately, this method is an easy way to establish that baseline. With an adequate baseline, you may make objective determinations about whether any changes are good or bad. Was that fancy new antenna actually worth it or not? Would it help to move that base station up another three feet?(Yes...the answer is yes) Now you can answer that question definitively and objective way using empirical data.
+Before you can determine whether any changes you make to your mesh are worthwhile, you must first establish a baseline. You can't know where you're going if you don't know where you are. Fortunately, this method is an easy way to establish that baseline. With an adequate baseline, you may make objective determinations about whether any changes are good or bad. 
+
+> Was that fancy new antenna actually worth it or not?
+>  Would it help to move that base station up another three feet?(Yes...the answer is yes)
+
+Now you can answer that question definitively and objectively, using empirical data.
 
 ## Google Earth
 <img src="/media/GEarch_Pano.png">
