@@ -60,17 +60,17 @@ Now we create a new sheet in [Google Sheets](https://sheets.google.com), don't b
 ## Google's My Maps
  1. Start a new map in [Google's My Maps](https://www.google.com/mymaps), or open an existing map to add data to it.
  2. Click to import data into the initial layer, browse your Google drive for the spreadsheet we worked on in the previous section.
-
- <img src="/media/MapImportLayer.png">
+    <img src="/media/MapImportLayer.png">
  3. Google Maps will ask you which columns are to be used to represent latitude and longitude. Fortunately, this is easy as the columns are RxLat and RxLon.
- <img src="/media/latlong.png">
+    <img src="/media/latlong.png">
  4. Google Maps next asks which column to use to name the mapped points. For this, chose Rx SNR.
  5. Your mapped range test points are now displayed, but we are not done yet!
  6. Click the paint roller icon and change Group Places By and Set Labels both to Rx SNR.
  7. Click the radio button next to Ranges and set a reasonable number here, I use 8.
  8. Set a color scheme of your choice.
-<img src="/media/ImportMap.png">
-Now you will have a color coded set of plots, each representing a single ping packet sent from your base station to your mobile node during the range test. The color gradient represents the SNR as calculated by the mobile receiver node.
+    <img src="/media/ImportMap.png">
+    
+Now you will have a color coded set of plots, each representing a single ping packet sent from your base station to your mobile node during the range test. The color gradient represents the SNR as calculated by the mobile receiver node.  
 
 > You may now repeat this same test any number of times.
 > By changing a variable each time and comparing to your
