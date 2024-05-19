@@ -19,7 +19,7 @@ The Meshtastic application includes a range test module which can be used to gen
 
  We will be making use of two nodes configured with a single base station and a single mobile node. We put the base station into a "Lighthouse" mode where it beacons out every so many seconds, our mobile node will be receiver and its location will be used as the source of our mapped GPS coordinates.
 
- 1.Enable sharing phone GPS to mesh. I recommend this for range testing, even if you have on-board GPS.
+ 1. Enable sharing phone GPS to mesh. I recommend this for range testing, even if you have on-board GPS.
  2. Connect to Stationary Node, enable range test mode. If walking, set 30s, if driving, set 120s...or similar enough for your needs.
  3. Connect to Mobile Node, optionally clear debug log to start a fresh data file (all existing logs will be lost!).
  4. Enable Range Test mode, do not set a send time, we will only be receiving.
