@@ -10,5 +10,7 @@ main:
     url: diy02.html
   - title: "Applicaiton"
     url: app.html
+  - title: "GIS Maps"
+    url: gismapping.html
   - title: "Soapbox"
     url: philosophy.html
