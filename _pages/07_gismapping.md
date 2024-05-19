@@ -7,13 +7,13 @@ share: true
 related: true
 permalink: gismapping.html
 ---
-# Geographic Information Systems Mapping
-<img src="/media/G_earth_3d_overview.png" width="80%">
+# Mapping with Meshtastic
+<img src="/media/G_earth_3d_overview.png">
 
 This page summarizes one method to create geographic plots of your Meshtastic node range tests. Using this method you can create heat maps which help visualize the strength and signal between any two participating nodes.
 
 ## Range Test Module
-<img src="/media/explorer_binocs.png">
+<img src="/media/explorer_binocs.png" width="80%">
 The Meshtastic application includes a range test module which can be used to generate data sets, plotting the distance, location, and signal strength between any two nodes. These may then be plotted on various mapping services, the most ubiquitous being Google, so we'll use that to focus on.
 
  We will be making use of two nodes configured with a single base station and a single mobile node. We put the base station into a "Lighthouse" mode where it beacons out every so many seconds, our mobile node will be receiver and its location will be used as the source of our mapped GPS coordinates.
@@ -59,6 +59,7 @@ Now we create a new sheet in [Google Sheets](https://sheets.google.com), don't b
 ## Google's My Maps
  1. Start a new map in [Google's My Maps](https://www.google.com/mymaps), or open an existing map to add data to it.
  2. Click to import data into the initial layer, browse your Google drive for the spreadsheet we worked on in the previous section.
+
  <img src="/media/MapImportLayer.png">
  3. Google Maps will ask you which columns are to be used to represent latitude and longitude. Fortunately, this is easy as the columns are RxLat and RxLon.
  <img src="/media/latlong.png">
